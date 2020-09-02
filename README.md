@@ -2,7 +2,7 @@
 CivicDataLab works with a goal to use data, tech, design and social science to strengthen the course of civic engagements. We work to harness the potential of open-source movement to enable citizens to engage better with public reforms. We aim to grow data and tech literacy of various governments, nonprofits, think-tanks, media houses, universities etc to enable data-driven decision making at scale. The team has been instrumental in starting initiatives like DataKind Bangalore, Open Budgets India, etc. We believe in becoming thought partners in change with the help of our collaborations.
 
 ### Purpose of the publication
-The Open Contracting Data Standard (OCDS) enables organisations to publish contracting process information at all the stages. OCDS defines a standard data model for  publishing contracting process data and documents with the aim of improving transparency and consumability of governmental data
+The [Open Contracting Data Standard](https://standard.open-contracting.org/latest/en/) (OCDS) enables organisations to publish contracting process information at all the stages. OCDS defines a standard data model for  publishing contracting process data and documents with the aim of improving transparency and consumability of governmental data
 Himachal Pradesh publishes its contracting process information on https://hptenders.gov.in/nicgep/app. This portal provides all information on purchases done by districts of himachal in an open format. However, the data published is not in a consumable format and is behind captchas. Therefore the importance of implementing OCDS are following
 
 * Promote the transparency in decision making
